@@ -6,11 +6,11 @@ function App() {
       <div id="game-container">
         <ol id="players">
           <Player
-            name="Player 01"
+            initialName="Player 01"
             symbol="X"
           />
           <Player
-            name="Player 02"
+            initialName="Player 02"
             symbol="O"
           />
         </ol>
